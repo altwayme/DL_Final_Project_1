@@ -1,0 +1,295 @@
+2024-11-27 15:12:22.474996 - file "Grigoriy.jpg" got caption "a man in a black suit and black shirt"
+2024-11-27 15:16:01.050319 - file "Grigoriy.jpg" got caption "a man in a black suit and black shirt"
+2024-11-27 15:18:29.639737 - file "Grigoriy.jpg" got caption "a man in a black suit and black shirt"
+2024-11-27 15:18:29.861336 - file "Grigoriy.jpg" objects detected "person"
+2024-11-27 15:18:30.001814 - file "Grigoriy.jpg" saved as "other" category "a photo of unknown stuff"
+2024-11-27 15:19:43.788900 - file "Grigoriy.jpg" got caption "a man in a black suit and black shirt"
+2024-11-27 15:19:43.916332 - file "Grigoriy.jpg" objects detected "person"
+2024-11-27 15:19:44.047726 - file "Grigoriy.jpg" saved as "other" category "a photo of unknown stuff"
+2024-11-27 15:20:09.601492 - file "Grigoriy.jpg" faces foundgleps
+2024-11-27 15:21:30.685358 - file "Grigoriy.jpg" got caption "a man in a black suit and black shirt"
+2024-11-27 15:21:30.798414 - file "Grigoriy.jpg" objects detected "person"
+2024-11-27 15:21:30.958900 - file "Grigoriy.jpg" saved as "other" category "a photo of unknown stuff"
+2024-11-27 15:21:31.442600 - file "Grigoriy.jpg" faces foundgleps
+2024-11-27 15:26:45.218743 - file "Grigoriy.jpg" got caption "a man in a black suit and black shirt"
+2024-11-27 15:26:45.367500 - file "Grigoriy.jpg" objects detected "person"
+2024-11-27 15:26:45.498009 - file "Grigoriy.jpg" saved as "other" category "a photo of unknown stuff"
+2024-11-27 15:26:45.966413 - file "Grigoriy.jpg" faces foundgleps
+2024-11-27 15:46:12.175309 - file "Grigoriy.jpg" got caption "a man in a black suit and black shirt"
+2024-11-27 15:46:12.301601 - file "Grigoriy.jpg" objects detected "person"
+2024-11-27 15:46:12.432085 - file "Grigoriy.jpg" saved as "other" category "a photo of unknown stuff"
+2024-11-27 15:53:49.368002 - file "Grigoriy.jpg" got caption "a man in a black suit and black shirt"
+2024-11-27 15:53:49.498738 - file "Grigoriy.jpg" objects detected "person"
+2024-11-27 15:53:49.666660 - file "Grigoriy.jpg" saved as "other" category "a photo of unknown stuff"
+2024-11-27 15:53:50.151636 - file "Grigoriy.jpg" faces foundGrigoriy Leps
+2024-11-27 15:53:50.381452 - file "Grigoriy.jpg" face 1 emotion "neutral"
+2024-11-27 15:54:15.143647 - file "vsyutkin.jpg" got caption "a man in a suit and tie is talking to the camera"
+2024-11-27 15:54:15.326568 - file "vsyutkin.jpg" objects detected "person ,person ,tie ,person"
+2024-11-27 15:54:15.494913 - file "vsyutkin.jpg" saved as "other" category "a photo of unknown stuff"
+2024-11-27 15:54:16.337650 - file "vsyutkin.jpg" faces foundVasiliy Syutkin
+2024-11-27 15:54:16.923453 - file "vsyutkin.jpg" face 1 emotion "happy"
+2024-11-27 15:56:01.742603 - file "lmessi.jpg" got caption "a man with a beard and a white shirt"
+2024-11-27 15:56:01.942986 - file "lmessi.jpg" objects detected "person"
+2024-11-27 15:56:02.080991 - file "lmessi.jpg" saved as "other" category "a photo of unknown stuff"
+2024-11-27 15:56:02.935002 - file "lmessi.jpg" faces foundLionel Messi
+2024-11-27 15:56:03.542704 - file "lmessi.jpg" face 1 emotion "disgust"
+2024-11-27 15:56:21.636744 - file "neymar.jpg" got caption "a soccer player with a beard and a green shirt"
+2024-11-27 15:56:21.913443 - file "neymar.jpg" objects detected "person"
+2024-11-27 15:56:22.083718 - file "neymar.jpg" saved as "other" category "a photo of unknown stuff"
+2024-11-27 15:56:24.672535 - file "neymar.jpg" faces foundNeymar
+2024-11-27 15:56:27.004616 - file "neymar.jpg" face 1 emotion "angry"
+2024-11-27 15:57:14.958024 - file "many_faces.jpg" got caption "a group of people with different facial expressions"
+2024-11-27 15:57:15.131429 - file "many_faces.jpg" objects detected "person ,person ,person ,tie ,person ,person ,person ,tie ,person ,person ,person ,person"
+2024-11-27 15:57:15.277531 - file "many_faces.jpg" saved as "party" category "a photo of a party"
+2024-11-27 15:57:18.257235 - file "many_faces.jpg" no known faces found
+2024-11-27 15:57:19.510436 - file "many_faces.jpg" face 1 emotion "happy"
+2024-11-27 15:57:19.512222 - file "many_faces.jpg" face 2 emotion "happy"
+2024-11-27 15:57:19.513276 - file "many_faces.jpg" face 3 emotion "happy"
+2024-11-27 15:57:19.514053 - file "many_faces.jpg" face 4 emotion "sad"
+2024-11-27 15:57:19.514933 - file "many_faces.jpg" face 5 emotion "happy"
+2024-11-27 15:57:19.515589 - file "many_faces.jpg" face 6 emotion "neutral"
+2024-11-27 15:57:19.516506 - file "many_faces.jpg" face 7 emotion "happy"
+2024-11-27 15:57:19.517273 - file "many_faces.jpg" face 8 emotion "happy"
+2024-11-27 15:57:19.517913 - file "many_faces.jpg" face 9 emotion "happy"
+2024-11-27 15:58:21.981989 - file "2.jpg" got caption "a hamburger with cheese and tomato on a plate"
+2024-11-27 15:58:22.186853 - file "2.jpg" objects detected "sandwich"
+2024-11-27 15:58:22.406202 - file "2.jpg" saved as "food" category "a photo of a food"
+2024-11-27 15:58:23.794773 - file "2.jpg" no known faces found
+2024-11-27 15:58:24.950873 - file "2.jpg" face 1 emotion "fear"
+2024-11-27 16:05:52.295294 - file "1.jpg" got caption "a blue tray with food on it"
+2024-11-27 16:05:52.613657 - file "1.jpg" objects detected "bowl ,cup ,bowl ,dining table ,hot dog ,sandwich"
+2024-11-27 16:05:52.880974 - file "1.jpg" saved as "food" category "a photo of a food"
+2024-11-27 16:05:55.260041 - file "1.jpg" no known faces found
+2024-11-27 16:10:02.234018 - file "1.jpg" got caption "a blue tray with food on it"
+2024-11-27 16:10:02.540601 - file "1.jpg" objects detected "bowl ,cup ,bowl ,dining table ,hot dog ,sandwich"
+2024-11-27 16:10:02.787965 - file "1.jpg" saved as "food" category "a photo of a food"
+2024-11-27 16:10:05.173112 - file "1.jpg" no known faces found
+2024-11-27 16:10:07.312993 - file "1.jpg" face 1 emotion "happy"
+2024-11-27 16:21:37.367583 - file "Grigoriy.jpg" got caption "a man in a black suit and black shirt"
+2024-11-27 16:21:37.514028 - file "Grigoriy.jpg" objects detected "person"
+2024-11-27 16:21:37.647284 - file "Grigoriy.jpg" saved as "other" category "a photo of unknown stuff"
+2024-11-27 16:21:38.138705 - file "Grigoriy.jpg" faces foundGrigoriy Leps
+2024-11-27 16:21:38.369789 - file "Grigoriy.jpg" emotions detected: neutral
+2024-11-27 16:21:52.911651 - file "1.jpg" got caption "a blue tray with food on it"
+2024-11-27 16:21:53.224542 - file "1.jpg" objects detected "bowl ,cup ,bowl ,dining table ,hot dog ,sandwich"
+2024-11-27 16:21:53.472242 - file "1.jpg" saved as "food" category "a photo of a food"
+2024-11-27 16:21:55.856082 - file "1.jpg" no known faces found
+2024-11-27 16:21:57.948408 - file "1.jpg" emotions detected: happy
+2024-11-27 16:22:28.735834 - file "2.jpg" got caption "a hamburger with cheese and tomato on a plate"
+2024-11-27 16:22:28.946039 - file "2.jpg" objects detected "sandwich"
+2024-11-27 16:22:29.169435 - file "2.jpg" saved as "food" category "a photo of a food"
+2024-11-27 16:22:30.576631 - file "2.jpg" no known faces found
+2024-11-27 16:30:12.887225 - file "1.jpg" got caption "a blue tray with food on it"
+2024-11-27 16:30:13.170360 - file "1.jpg" objects detected "bowl ,cup ,bowl ,dining table ,hot dog ,sandwich"
+2024-11-27 16:30:13.425134 - file "1.jpg" saved as "food" category "a photo of a food"
+2024-11-27 16:30:15.864752 - file "1.jpg" no known faces found
+2024-11-27 16:30:17.945206 - file "1.jpg" no faces detected for emotion analysis
+2024-11-27 16:30:37.947023 - file "IMG_20221108_010711.jpg" got caption "a man with a black shirt"
+2024-11-27 16:30:38.986601 - file "IMG_20221108_010711.jpg" objects detected "person"
+2024-11-27 16:30:39.902822 - file "IMG_20221108_010711.jpg" saved as "other" category "a photo of unknown stuff"
+2024-11-27 16:30:50.216355 - file "IMG_20221108_010711.jpg" no known faces found
+2024-11-27 16:30:58.461752 - file "IMG_20221108_010711.jpg" no faces detected for emotion analysis
+2024-11-27 16:32:30.839758 - file "IMG_20221117_191152.jpg" got caption "a man in a black shirt"
+2024-11-27 16:32:31.799013 - file "IMG_20221117_191152.jpg" objects detected "person"
+2024-11-27 16:32:32.558246 - file "IMG_20221117_191152.jpg" saved as "other" category "a photo of unknown stuff"
+2024-11-27 16:32:38.214195 - file "IMG_20221117_191152.jpg" no known faces found
+2024-11-27 16:32:43.241239 - file "IMG_20221117_191152.jpg" no faces detected for emotion analysis
+2024-11-27 16:33:01.733581 - file "20230224_202232.jpg" got caption "a woman with glasses on her face"
+2024-11-27 16:33:02.156190 - file "20230224_202232.jpg" objects detected "person"
+2024-11-27 16:33:02.532961 - file "20230224_202232.jpg" saved as "other" category "a photo of unknown stuff"
+2024-11-27 16:33:07.113440 - file "20230224_202232.jpg" no known faces found
+2024-11-27 16:33:11.280806 - file "20230224_202232.jpg" no faces detected for emotion analysis
+2024-11-27 16:33:26.638021 - file "IMG_20221108_010711.jpg" got caption "a man with a black shirt"
+2024-11-27 16:33:27.651130 - file "IMG_20221108_010711.jpg" objects detected "person"
+2024-11-27 16:33:28.526194 - file "IMG_20221108_010711.jpg" saved as "other" category "a photo of unknown stuff"
+2024-11-27 16:34:20.778798 - file "many_faces.jpg" got caption "a group of people with different facial expressions"
+2024-11-27 16:34:20.920952 - file "many_faces.jpg" objects detected "person ,person ,person ,tie ,person ,person ,person ,tie ,person ,person ,person ,person"
+2024-11-27 16:34:21.079089 - file "many_faces.jpg" saved as "party" category "a photo of a party"
+2024-11-27 16:34:23.992612 - file "many_faces.jpg" no known faces found
+2024-11-27 16:34:25.252638 - file "many_faces.jpg" emotions detected: happy, happy, happy, sad, happy, neutral, happy, happy, happy
+2024-11-27 16:34:43.284157 - file "neymar.jpg" got caption "a soccer player with a beard and a green shirt"
+2024-11-27 16:34:43.511870 - file "neymar.jpg" objects detected "person"
+2024-11-27 16:34:43.684896 - file "neymar.jpg" saved as "other" category "a photo of unknown stuff"
+2024-11-27 16:34:46.269217 - file "neymar.jpg" faces foundNeymar
+2024-11-27 16:34:48.583015 - file "neymar.jpg" emotions detected: angry
+2024-11-27 16:38:26.180769 - file "iCY48HlPxXY.jpg" got caption "a group of young people posing for a photo"
+2024-11-27 16:38:26.343142 - file "iCY48HlPxXY.jpg" objects detected "person ,sports ball ,person ,person ,person ,person ,person ,person ,person ,person ,sports ball ,person"
+2024-11-27 16:38:26.477257 - file "iCY48HlPxXY.jpg" saved as "other" category "a photo of unknown stuff"
+2024-11-27 16:38:35.495321 - file "iCY48HlPxXY.jpg" no known faces found
+2024-11-27 16:38:35.962693 - file "iCY48HlPxXY.jpg" emotions detected: neutral, neutral, happy, happy, happy
+2024-11-27 16:39:08.861927 - file "FETi5V1Gcaw.jpg" got caption "a man standing outside of a building"
+2024-11-27 16:39:09.107382 - file "FETi5V1Gcaw.jpg" objects detected "person ,clock"
+2024-11-27 16:39:09.254671 - file "FETi5V1Gcaw.jpg" saved as "other" category "a photo of unknown stuff"
+2024-11-27 16:39:10.713874 - file "FETi5V1Gcaw.jpg" no known faces found
+2024-11-27 16:39:11.899766 - file "FETi5V1Gcaw.jpg" emotions detected: happy
+2024-11-27 16:39:42.525199 - file "-Lfw_FGFcu4.jpg" got caption "three boys standing in front of a mirror"
+2024-11-27 16:39:42.865793 - file "-Lfw_FGFcu4.jpg" objects detected "person ,person ,person"
+2024-11-27 16:39:43.148116 - file "-Lfw_FGFcu4.jpg" saved as "party" category "a photo of a party"
+2024-11-27 16:39:48.830642 - file "-Lfw_FGFcu4.jpg" no known faces found
+2024-11-27 16:39:54.011661 - file "-Lfw_FGFcu4.jpg" emotions detected: neutral, neutral
+2024-11-27 16:44:03.465270 - file "2024-11-27-в-19-40-58-_brave_.jpg" got caption "a man with a black shirt and a black shirt"
+2024-11-27 16:44:03.657228 - file "2024-11-27-в-19-40-58-_brave_.jpg" objects detected "person"
+2024-11-27 16:44:03.817826 - file "2024-11-27-в-19-40-58-_brave_.jpg" saved as "other" category "a photo of unknown stuff"
+2024-11-27 16:45:12.252985 - file "2024-11-27-в-19-41-44-_brave_.jpg" got caption "a man taking a selfie in a bathroom"
+2024-11-27 16:45:12.457183 - file "2024-11-27-в-19-41-44-_brave_.jpg" objects detected "person ,cell phone"
+2024-11-27 16:45:12.629063 - file "2024-11-27-в-19-41-44-_brave_.jpg" saved as "other" category "a photo of unknown stuff"
+2024-11-27 16:45:13.493043 - file "2024-11-27-в-19-41-44-_brave_.jpg" no known faces found
+2024-11-27 16:45:14.076954 - file "2024-11-27-в-19-41-44-_brave_.jpg" no faces detected for emotion analysis
+2024-11-27 16:45:32.545523 - file "2024-11-27-в-19-40-58-_brave_.jpg" got caption "a man with a black shirt and a black shirt"
+2024-11-27 16:45:32.782695 - file "2024-11-27-в-19-40-58-_brave_.jpg" objects detected "person"
+2024-11-27 16:45:32.960019 - file "2024-11-27-в-19-40-58-_brave_.jpg" saved as "other" category "a photo of unknown stuff"
+2024-11-27 16:48:43.115665 - file "Svetlana Bova.jpg" got caption "a woman sitting in an office chair"
+2024-11-27 16:48:43.324587 - file "Svetlana Bova.jpg" objects detected "person"
+2024-11-27 16:48:43.464491 - file "Svetlana Bova.jpg" saved as "other" category "a photo of unknown stuff"
+2024-11-27 16:48:44.896557 - file "Svetlana Bova.jpg" faces foundSvetlana Bova
+2024-11-27 16:48:46.057577 - file "Svetlana Bova.jpg" emotions detected: fear
+2024-11-27 16:49:16.333351 - file "IMG_20221117_191152.jpg" got caption "a man in a black shirt"
+2024-11-27 16:49:17.177019 - file "IMG_20221117_191152.jpg" objects detected "person"
+2024-11-27 16:49:17.919719 - file "IMG_20221117_191152.jpg" saved as "other" category "a photo of unknown stuff"
+2024-11-27 16:49:23.551838 - file "IMG_20221117_191152.jpg" no known faces found
+2024-11-27 16:49:28.543036 - file "IMG_20221117_191152.jpg" no faces detected for emotion analysis
+2024-11-27 16:53:06.798951 - file "2024-11-27-в-19-40-58-_brave_.jpg" got caption "a man with a black shirt and a black shirt"
+2024-11-27 16:53:06.995428 - file "2024-11-27-в-19-40-58-_brave_.jpg" objects detected "person"
+2024-11-27 16:53:07.146878 - file "2024-11-27-в-19-40-58-_brave_.jpg" saved as "other" category "a photo of unknown stuff"
+2024-11-27 16:53:16.094195 - file "2024-11-27-в-19-40-58-_brave_.jpg" faces foundNikita Pronin
+2024-11-27 16:53:17.330927 - file "2024-11-27-в-19-40-58-_brave_.jpg" emotions detected: neutral
+2024-11-27 16:53:38.053883 - file "2024-11-27-в-19-41-44-_brave_.jpg" got caption "a man taking a selfie in a bathroom"
+2024-11-27 16:53:38.266860 - file "2024-11-27-в-19-41-44-_brave_.jpg" objects detected "person ,cell phone"
+2024-11-27 16:53:38.417949 - file "2024-11-27-в-19-41-44-_brave_.jpg" saved as "other" category "a photo of unknown stuff"
+2024-11-27 16:53:39.280536 - file "2024-11-27-в-19-41-44-_brave_.jpg" no known faces found
+2024-11-27 16:53:39.846811 - file "2024-11-27-в-19-41-44-_brave_.jpg" no faces detected for emotion analysis
+2024-11-27 16:55:33.954145 - file "Robert De Niro.jpg" got caption "an older man in a tuxed tuxed tuxed tuxed tuxed tuxed tuxed"
+2024-11-27 16:55:34.187138 - file "Robert De Niro.jpg" objects detected "person ,tie"
+2024-11-27 16:55:34.399672 - file "Robert De Niro.jpg" saved as "other" category "a photo of unknown stuff"
+2024-11-27 16:55:36.051295 - file "Robert De Niro.jpg" no known faces found
+2024-11-27 16:55:37.444880 - file "Robert De Niro.jpg" emotions detected: happy
+2024-11-27 16:58:14.428513 - file "Johny Depp.jpg" got caption "johnny lee arrives the 70th annual golden awards"
+2024-11-27 16:58:14.583072 - file "Johny Depp.jpg" objects detected "person"
+2024-11-27 16:58:14.722486 - file "Johny Depp.jpg" saved as "other" category "a photo of unknown stuff"
+2024-11-27 16:58:15.666340 - file "Johny Depp.jpg" no known faces found
+2024-11-27 16:58:16.368743 - file "Johny Depp.jpg" emotions detected: surprise
+2024-11-27 16:58:58.483127 - file "4.jpg" got caption "a plastic container with sui and vegetables inside"
+2024-11-27 16:58:58.720453 - file "4.jpg" objects detected "dining table ,bowl"
+2024-11-27 16:58:58.961152 - file "4.jpg" saved as "food" category "a photo of a food"
+2024-11-27 16:59:00.960952 - file "4.jpg" no known faces found
+2024-11-27 16:59:02.712434 - file "4.jpg" emotions detected: happy
+2024-11-27 16:59:36.960959 - file "4.jpg" got caption "a plastic container with sui and vegetables inside"
+2024-11-27 16:59:37.197495 - file "4.jpg" objects detected "dining table ,bowl"
+2024-11-27 16:59:37.414927 - file "4.jpg" saved as "food" category "a photo of a food"
+2024-11-27 16:59:39.409932 - file "4.jpg" no known faces found
+2024-11-27 16:59:41.137500 - file "4.jpg" emotions detected: happy
+2024-11-27 16:59:54.882620 - file "2.jpg" got caption "a hamburger with cheese and tomato on a plate"
+2024-11-27 16:59:55.087833 - file "2.jpg" objects detected "sandwich"
+2024-11-27 16:59:55.284251 - file "2.jpg" saved as "food" category "a photo of a food"
+2024-11-27 16:59:56.688471 - file "2.jpg" no known faces found
+2024-11-27 16:59:57.839957 - file "2.jpg" emotions detected: fear
+2024-11-27 17:02:20.465747 - file "5.jpg" got caption "a tray with food on it"
+2024-11-27 17:02:20.634266 - file "5.jpg" objects detected "bowl ,fork ,dining table"
+2024-11-27 17:02:20.799161 - file "5.jpg" saved as "food" category "a photo of a food"
+2024-11-27 17:02:21.760414 - file "5.jpg" no known faces found
+2024-11-27 17:02:22.422069 - file "5.jpg" no faces detected for emotion analysis
+2024-11-27 17:02:34.389342 - file "2.jpg" got caption "a hamburger with cheese and tomato on a plate"
+2024-11-27 17:02:34.608702 - file "2.jpg" objects detected "sandwich"
+2024-11-27 17:02:34.820371 - file "2.jpg" saved as "food" category "a photo of a food"
+2024-11-27 17:02:36.228730 - file "2.jpg" no known faces found
+2024-11-27 17:02:37.345913 - file "2.jpg" no faces detected for emotion analysis
+2024-11-27 17:02:53.208594 - file "Johny Depp.jpg" got caption "johnny lee arrives the 70th annual golden awards"
+2024-11-27 17:02:53.407308 - file "Johny Depp.jpg" objects detected "person"
+2024-11-27 17:02:53.586085 - file "Johny Depp.jpg" saved as "other" category "a photo of unknown stuff"
+2024-11-27 17:02:54.545549 - file "Johny Depp.jpg" no known faces found
+2024-11-27 17:02:55.250628 - file "Johny Depp.jpg" emotions detected: surprise
+2024-11-27 17:03:09.977450 - file "Svetlana Bova.jpg" got caption "a woman sitting in an office chair"
+2024-11-27 17:03:10.186236 - file "Svetlana Bova.jpg" objects detected "person"
+2024-11-27 17:03:10.356885 - file "Svetlana Bova.jpg" saved as "other" category "a photo of unknown stuff"
+2024-11-27 17:03:11.794757 - file "Svetlana Bova.jpg" faces foundSvetlana Bova
+2024-11-27 17:03:12.964364 - file "Svetlana Bova.jpg" emotions detected: fear
+2024-11-27 17:03:24.391747 - file "4.jpg" got caption "a plastic container with sui and vegetables inside"
+2024-11-27 17:03:24.627445 - file "4.jpg" objects detected "dining table ,bowl"
+2024-11-27 17:03:24.855898 - file "4.jpg" saved as "food" category "a photo of a food"
+2024-11-27 17:03:26.843681 - file "4.jpg" no known faces found
+2024-11-27 17:03:28.584257 - file "4.jpg" emotions detected: happy
+2024-11-27 17:03:38.757972 - file "5.jpg" got caption "a tray with food on it"
+2024-11-27 17:03:38.922261 - file "5.jpg" objects detected "bowl ,fork ,dining table"
+2024-11-27 17:03:39.074267 - file "5.jpg" saved as "food" category "a photo of a food"
+2024-11-27 17:03:40.018723 - file "5.jpg" no known faces found
+2024-11-27 17:03:40.685669 - file "5.jpg" no faces detected for emotion analysis
+2024-11-27 17:03:52.391712 - file "2.jpg" got caption "a hamburger with cheese and tomato on a plate"
+2024-11-27 17:03:52.593480 - file "2.jpg" objects detected "sandwich"
+2024-11-27 17:03:52.788107 - file "2.jpg" saved as "food" category "a photo of a food"
+2024-11-27 17:03:54.180595 - file "2.jpg" no known faces found
+2024-11-27 17:03:55.267684 - file "2.jpg" no faces detected for emotion analysis
+2024-11-27 17:04:03.841851 - file "1.jpg" got caption "a blue tray with food on it"
+2024-11-27 17:04:04.116743 - file "1.jpg" objects detected "bowl ,cup ,bowl ,dining table ,hot dog ,sandwich"
+2024-11-27 17:04:04.351348 - file "1.jpg" saved as "food" category "a photo of a food"
+2024-11-27 17:04:06.716323 - file "1.jpg" no known faces found
+2024-11-27 17:04:08.737265 - file "1.jpg" no faces detected for emotion analysis
+2024-11-27 17:04:18.469820 - file "3.jpg" got caption "a plate of food with some sauce and a fork"
+2024-11-27 17:04:18.662450 - file "3.jpg" objects detected "dining table ,fork"
+2024-11-27 17:04:18.817018 - file "3.jpg" saved as "food" category "a photo of a food"
+2024-11-27 17:04:20.093127 - file "3.jpg" no known faces found
+2024-11-27 17:04:21.097597 - file "3.jpg" no faces detected for emotion analysis
+2024-11-27 17:04:51.295737 - file "4.jpg" got caption "a plastic container with sui and vegetables inside"
+2024-11-27 17:04:51.533640 - file "4.jpg" objects detected "dining table ,bowl"
+2024-11-27 17:04:51.747711 - file "4.jpg" saved as "food" category "a photo of a food"
+2024-11-27 17:04:53.738147 - file "4.jpg" no known faces found
+2024-11-27 17:04:55.523900 - file "4.jpg" emotions detected: happy
+2024-11-27 17:05:39.299800 - file "4.jpg" got caption "a plastic container with sui and vegetables inside"
+2024-11-27 17:05:39.535414 - file "4.jpg" objects detected "dining table ,bowl"
+2024-11-27 17:05:39.784901 - file "4.jpg" saved as "food" category "a photo of a food"
+2024-11-27 17:05:41.778983 - file "4.jpg" no known faces found
+2024-11-27 17:05:43.520766 - file "4.jpg" emotions detected: happy
+2024-11-27 17:05:52.664947 - file "2.jpg" got caption "a hamburger with cheese and tomato on a plate"
+2024-11-27 17:05:52.862309 - file "2.jpg" objects detected "sandwich"
+2024-11-27 17:05:53.047782 - file "2.jpg" saved as "food" category "a photo of a food"
+2024-11-27 17:05:54.448956 - file "2.jpg" no known faces found
+2024-11-27 17:05:55.596458 - file "2.jpg" emotions detected: fear
+2024-11-28 07:12:42.700960 - file "guitars.jpg" got caption "three guitars hanging on a wall"
+2024-11-28 07:12:43.710483 - file "guitars.jpg" objects detected "vase"
+2024-11-28 07:14:08.060961 - file "guitars.jpg" saved as "guitars" category "a photo of a guitar"
+2024-11-28 07:14:46.220710 - file "guitars.jpg" no known faces found
+2024-11-28 07:14:49.059083 - file "guitars.jpg" no faces detected for emotion analysis
+2024-11-28 07:15:31.275373 - file "guitar1.jpg" got caption "a guitar sitting on top of a couch"
+2024-11-28 07:15:31.454249 - file "guitar1.jpg" objects detected ""
+2024-11-28 07:15:31.570850 - file "guitar1.jpg" saved as "guitars" category "a photo of a guitar"
+2024-11-28 07:15:32.154507 - file "guitar1.jpg" no known faces found
+2024-11-28 07:15:32.477136 - file "guitar1.jpg" no faces detected for emotion analysis
+2024-11-28 07:15:53.753319 - file "guitar2.jpg" got caption "a man playing a guitar on a couch"
+2024-11-28 07:15:54.552234 - file "guitar2.jpg" objects detected "tie"
+2024-11-28 07:15:55.238014 - file "guitar2.jpg" saved as "guitars" category "a photo of a guitar"
+2024-11-28 07:16:03.935115 - file "guitar2.jpg" no known faces found
+2024-11-28 07:16:11.136789 - file "guitar2.jpg" no faces detected for emotion analysis
+2024-11-28 07:16:59.816495 - file "city1.jpg" got caption "a river in the city"
+2024-11-28 07:17:00.135195 - file "city1.jpg" objects detected ""
+2024-11-28 07:17:00.427062 - file "city1.jpg" saved as "cities" category "a photo of a city"
+2024-11-28 07:17:06.277798 - file "city1.jpg" no known faces found
+2024-11-28 07:17:11.709464 - file "city1.jpg" no faces detected for emotion analysis
+2024-11-28 07:19:00.011446 - file "dog.jpg" got caption "a dog with its tongue out and its mouth open"
+2024-11-28 07:19:00.371790 - file "dog.jpg" objects detected "dog"
+2024-11-28 07:19:00.658194 - file "dog.jpg" saved as "dogs" category "a photo of a dog"
+2024-11-28 07:19:03.001805 - file "dog.jpg" no known faces found
+2024-11-28 07:19:05.008014 - file "dog.jpg" no faces detected for emotion analysis
+2024-11-28 07:19:19.458052 - file "nature.jpg" got caption "the doloma valley in the doloma valley, doloma, doloma"
+2024-11-28 07:19:19.672641 - file "nature.jpg" objects detected ""
+2024-11-28 07:19:19.906263 - file "nature.jpg" saved as "nature" category "a photo of nature"
+2024-11-28 07:19:22.164270 - file "nature.jpg" no known faces found
+2024-11-28 07:19:24.089733 - file "nature.jpg" no faces detected for emotion analysis
+2024-11-28 07:19:38.314711 - file "lovely_cat.jpg" got caption "a cat laying on the floor looking at the camera"
+2024-11-28 07:19:38.532739 - file "lovely_cat.jpg" objects detected "cat"
+2024-11-28 07:19:38.708529 - file "lovely_cat.jpg" saved as "cats" category "a photo of cat"
+2024-11-28 07:19:39.814470 - file "lovely_cat.jpg" no known faces found
+2024-11-28 07:19:40.633543 - file "lovely_cat.jpg" no faces detected for emotion analysis
+2024-11-28 07:20:56.112467 - file "nature.jpg" got caption "the doloma valley in the doloma valley, doloma, doloma"
+2024-11-28 07:20:56.323904 - file "nature.jpg" objects detected ""
+2024-11-28 07:20:56.555249 - file "nature.jpg" saved as "nature" category "a photo of nature"
+2024-11-28 07:20:58.826004 - file "nature.jpg" no known faces found
+2024-11-28 07:21:00.753605 - file "nature.jpg" no faces detected for emotion analysis
+2024-11-28 07:21:25.577486 - file "lovely_cat.jpg" got caption "a cat laying on the floor looking at the camera"
+2024-11-28 07:21:25.758778 - file "lovely_cat.jpg" objects detected "cat"
+2024-11-28 07:21:25.937753 - file "lovely_cat.jpg" saved as "cats" category "a photo of cat"
+2024-11-28 07:21:27.034004 - file "lovely_cat.jpg" no known faces found
+2024-11-28 07:21:27.832120 - file "lovely_cat.jpg" no faces detected for emotion analysis
+2024-11-28 07:22:12.028105 - file "lovely_cat.jpg" got caption "a cat laying on the floor looking at the camera"
+2024-11-28 07:22:12.236053 - file "lovely_cat.jpg" objects detected "cat"
+2024-11-28 07:22:12.376819 - file "lovely_cat.jpg" saved as "cats" category "a photo of cat"
+2024-11-28 07:22:13.454591 - file "lovely_cat.jpg" no known faces found
+2024-11-28 07:22:14.255792 - file "lovely_cat.jpg" no faces detected for emotion analysis
